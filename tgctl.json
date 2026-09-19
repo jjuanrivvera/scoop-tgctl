@@ -1,12 +1,12 @@
 {
-    "version": "0.3.3",
+    "version": "0.3.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/jjuanrivvera/tgctl/releases/download/v0.3.3/tgctl_0.3.3_windows_amd64.zip",
+            "url": "https://github.com/jjuanrivvera/tgctl/releases/download/v0.3.4/tgctl_0.3.4_windows_amd64.zip",
             "bin": [
                 "tgctl.exe"
             ],
-            "hash": "15f989cde5ffb123fcda2cc4fe269654b5b68bfa98010439d395edd5b4321a9e"
+            "hash": "575ac7cf34da447a048c9ddc038cbc9912b37a838349394fbb5a9cc52d9061ff"
         }
     }
 }
